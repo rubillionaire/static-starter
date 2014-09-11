@@ -1,7 +1,7 @@
 static-starter
 ===========
 
-HTML/CSS/JavaScript starter project. Pre-process CSS using [Stylus](http://learnboost.github.io/stylus/), and build JavaScript using [Browserify](http://browserify.org/).
+HTML/CSS/JavaScript starter project. Bundle CSS, and build JavaScript using [Browserify](http://browserify.org/).
 
 ## One Time Install
 
