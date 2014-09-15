@@ -16,7 +16,7 @@ There are a couple of one time installs. Node for doing the pre-processing/bundl
 1. Press the `Clone in Desktop` button to the right.
 2. Find the directory on your desktop where this project now resides on your local computer.
 3. Double click `work.command` to start the CSS, Javascript pre-processors, as well as a local server for development.
-4. Look in to `work.command` window for the URL of your local version website. Something like: `localhost:4000`
+4. Look to the `work.command` window for the URL of your local version website. Something like: `localhost:4000`
 5. Start making your website.
 6. When you make changes, use the Github application to`Commit + Sync` them back to your Github repository.
 
