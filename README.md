@@ -13,12 +13,14 @@ There are a couple of one time installs. Node for doing the pre-processing/bundl
 
 ## Doing Work
 
-1. Press the `Clone in Desktop` button to the right.
-2. Find the directory on your desktop where this project now resides on your local computer.
-3. Double click `work.command` to start the CSS, Javascript pre-processors, as well as a local server for development.
-4. Look to the `work.command` window for the URL of your local version website. Something like: `localhost:4000`
-5. Start making your website.
-6. When you make changes, use the Github application to`Commit + Sync` them back to your Github repository.
+1. Press the `Fork` button on the top right of this page.
+2. In your forked copy of the repository, go to `Settings` and in the text box labelled `Repository name`, name your repository after your project.
+3. Navigate back to your main repository page, and press the `Clone in Desktop` button on the right.
+4. In Github for Mac, you will have an entry on the sidebar with the name of your project. Right click > Open in Finder. This is your local copy of the project.
+5. Double click `work.command` to start the CSS, Javascript pre-processors, as well as a local server for development.
+6. Look to the `work.command` Terminal window for the URL of your local version website. Something like: `localhost:4000`
+7. Start making your website.
+8. When you make changes, use the Github application to`Commit + Sync` them back to your Github repository.
 
 Step 1 only has to be done the first time, to a copy of the repository.
 
